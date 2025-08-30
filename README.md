@@ -1,4 +1,4 @@
-# Jellyfin-lyrics-plus
+# Jellyfin-lyrics
 Download lyrics for all of your music
 
 Jellyfin 10.9 added support for lyrics this script helps you to get lyrics effortlessly and make your experience better.Happy Singing!!
